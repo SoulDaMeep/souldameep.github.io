@@ -23,7 +23,7 @@
 }
 
 .ds4.white .button {
-    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/face.png);
+    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/dpad.png);
 }
 
 .ds4.white .stick {
@@ -31,7 +31,7 @@
 }
 
 .ds4.white .face {
-    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/dpad.png);
+    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/face.png);
 }
 
 /*END PS4 White Controller Styling*/
