@@ -22,7 +22,9 @@
     background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/start.png);
 }
 
-
+.ds4.white .button {
+    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/dpad.png);
+}
 
 .ds4.white .stick {
     background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/sticks.png);
