@@ -1,0 +1,37 @@
+.controller.ds4.white {
+    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/base.png);
+}
+
+.ds4.white.disconnected {
+    background: url(ps4-assets/disconnected.svg);
+}
+
+.ds4.white .trigger {
+    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/triggers.png);
+}
+
+.ds4.white .bumper {
+    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/bumper.png);
+}
+
+.ds4.white .touchpad.pressed {
+    background-image: url(ps4-white-assets/touchpad.svg);
+}
+
+.ds4.white .back, .ds4 .start {
+    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/start.png);
+}
+
+.ds4.white .button {
+    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/dpad.png);
+}
+
+.ds4.white .stick {
+    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/sticks.png);
+}
+
+.ds4.white .face {
+    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/face.png);
+}
+
+/*END PS4 White Controller Styling*/
