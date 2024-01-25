@@ -1,7 +1,10 @@
 .controller.ds4.white {
-    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/base.png);
+    background-image: url(https://souldameep.github.io/Controller-Overlays/TrxyControllerOverlay/base.png);
 }
-
+.ds4.white .button {
+    background-image: url(https://souldameep.github.io/Controller-Overlays/TrxyControllerOverlay/dpad.png);
+}
+/*
 .ds4.white.disconnected {
     background: url(ps4-assets/disconnected.svg);
 }
@@ -22,9 +25,7 @@
     background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/start.png);
 }
 
-.ds4.white .button {
-    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/dpad.png);
-}
+
 
 .ds4.white .stick {
     background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/sticks.png);
@@ -33,5 +34,5 @@
 .ds4.white .face {
     background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/face.png);
 }
-
+*/
 /*END PS4 White Controller Styling*/
