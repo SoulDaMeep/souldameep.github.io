@@ -4,17 +4,17 @@
 .ds4.white .face {
     background-image: url(https://souldameep.github.io/Controller-Overlays/TrxyControllerOverlay/dpad.png);
 }
-/*
+
 .ds4.white.disconnected {
     background: url(ps4-assets/disconnected.svg);
 }
 
 .ds4.white .trigger {
-    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/triggers.png);
+    background-image: url(https://souldameep.github.io/Controller-Overlays/TrxyControllerOverlay/triggers.png);
 }
 
 .ds4.white .bumper {
-    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/bumper.png);
+    background-image: url(https://souldameep.github.io/Controller-Overlays/TrxyControllerOverlay/bumper.png);
 }
 
 .ds4.white .touchpad.pressed {
@@ -22,17 +22,16 @@
 }
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/start.png);
+    background-image: url(https://souldameep.github.io/Controller-Overlays/TrxyControllerOverlay/start.png);
 }
-
 
 
 .ds4.white .stick {
-    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/sticks.png);
+    background-image: url(https://souldameep.github.io/Controller-Overlays/TrxyControllerOverlay/sticks.png);
 }
 
 .ds4.white .face {
-    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay/face.png);
+    background-image: url(https://souldameep.github.io/Controller-Overlays/TrxyControllerOverlay/face.png);
 }
 */
 /*END PS4 White Controller Styling*/
