@@ -23,7 +23,7 @@
 }
 
 .ds4.white .button {
-    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay2/dpad.png);
+    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay2/face.png);
 }
 
 .ds4.white .stick {
@@ -31,5 +31,5 @@
 }
 
 .ds4.white .face {
-    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay2/face.png);
+    background-image: url(https://souldameep.github.io/Controller-Overlays/SoulControllerOverlay2/dpad.png);
 }
